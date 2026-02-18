@@ -1,6 +1,6 @@
 package service;
 
-import org.example.Model.Estudiante;
+import Model.Estudiante;
 import java.util.List;
 
 public interface EstudianteService {

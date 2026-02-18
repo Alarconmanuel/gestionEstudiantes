@@ -1,6 +1,6 @@
 package View;
 
-import org.example.Model.Estudiante;
+import Model.Estudiante;
 import java.util.List;
 import java.util.Scanner;
 

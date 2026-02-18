@@ -1,6 +1,6 @@
 package Controller;
 
-import org.example.Model.Estudiante;
+import Model.Estudiante;
 import service.EstudianteService;
 import View.EstudianteView;
 import java.util.List;
